@@ -38,6 +38,6 @@
   "resourcesFractionWhenDeconstructed": 0.75,
   "texture": "Texture_terrain_surfaces_roughstone.png",
   "layerable": false,
-  "color": "#9E9987",
+  "color": "#9e9987",
   "driesTo": null
 }

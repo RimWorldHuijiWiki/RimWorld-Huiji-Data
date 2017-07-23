@@ -38,6 +38,6 @@
   "resourcesFractionWhenDeconstructed": 0.75,
   "texture": "Texture_terrain_surfaces_smoothstone.png",
   "layerable": false,
-  "color": "#7E685E",
+  "color": "#7e685e",
   "driesTo": null
 }

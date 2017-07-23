@@ -44,6 +44,6 @@
   "resourcesFractionWhenDeconstructed": 0.75,
   "texture": "Texture_terrain_surfaces_genericfloortile.png",
   "layerable": true,
-  "color": "#A6A659",
+  "color": "#a6a659",
   "driesTo": null
 }

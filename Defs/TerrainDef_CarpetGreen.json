@@ -49,6 +49,6 @@
   "resourcesFractionWhenDeconstructed": 0.75,
   "texture": "Texture_terrain_surfaces_carpet.png",
   "layerable": true,
-  "color": "#59693E",
+  "color": "#59693e",
   "driesTo": null
 }

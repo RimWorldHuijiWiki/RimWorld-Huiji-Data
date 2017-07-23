@@ -44,6 +44,6 @@
   "resourcesFractionWhenDeconstructed": 0.0,
   "texture": "Texture_terrain_surfaces_flagstone.png",
   "layerable": true,
-  "color": "#9E9987",
+  "color": "#9e9987",
   "driesTo": null
 }
