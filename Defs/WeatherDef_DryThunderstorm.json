@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "DryThunderstorm",
+  "label": "旱天雷",
+  "description": "旱天雷很危险，因为闪电会引发火灾，同时又没有扑灭火焰的雨水。",
+  "windSpeedFactor": 1.5,
+  "moveSpeedMultiplier": 1.0,
+  "accuracyMultiplier": 1.0
+}

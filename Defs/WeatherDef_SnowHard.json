@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "SnowHard",
+  "label": "大雪",
+  "description": "大雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。",
+  "windSpeedFactor": 1.5,
+  "moveSpeedMultiplier": 0.8,
+  "accuracyMultiplier": 0.8
+}

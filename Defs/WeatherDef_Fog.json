@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "Fog",
+  "label": "雾",
+  "description": "雾会降低远程武器的命中率。",
+  "windSpeedFactor": 0.5,
+  "moveSpeedMultiplier": 1.0,
+  "accuracyMultiplier": 0.5
+}

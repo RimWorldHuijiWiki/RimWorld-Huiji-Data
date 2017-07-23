@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "Rain",
+  "label": "雨",
+  "description": "雨会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。",
+  "windSpeedFactor": 1.5,
+  "moveSpeedMultiplier": 0.9,
+  "accuracyMultiplier": 0.8
+}

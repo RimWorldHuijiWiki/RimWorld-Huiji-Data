@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "SnowGentle",
+  "label": "小雪",
+  "description": "小雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。",
+  "windSpeedFactor": 1.5,
+  "moveSpeedMultiplier": 1.0,
+  "accuracyMultiplier": 0.8
+}

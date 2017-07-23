@@ -1,0 +1,9 @@
+{
+  "defType": "WeatherDef",
+  "defName": "Clear",
+  "label": "晴",
+  "description": "天气晴朗，没有任何惩罚或者加成。",
+  "windSpeedFactor": 1.0,
+  "moveSpeedMultiplier": 1.0,
+  "accuracyMultiplier": 1.0
+}

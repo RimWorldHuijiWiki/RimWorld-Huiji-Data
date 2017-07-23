@@ -1,0 +1,76 @@
+{
+  "collection": "WeatherDef",
+  "allDefs": [
+    "WeatherDef_Clear.json",
+    "WeatherDef_Fog.json",
+    "WeatherDef_Rain.json",
+    "WeatherDef_DryThunderstorm.json",
+    "WeatherDef_RainyThunderstorm.json",
+    "WeatherDef_FoggyRain.json",
+    "WeatherDef_SnowHard.json",
+    "WeatherDef_SnowGentle.json"
+  ],
+  "charts": {
+    "compare": {
+      "color": [
+        "#FF6666",
+        "#B3FF66",
+        "#66FFFF",
+        "#B266FF",
+        "#FF6666"
+      ],
+      "xAxis": [
+        {
+          "data": [
+            "晴",
+            "雾",
+            "雨",
+            "旱天雷",
+            "暴风雨",
+            "雾雨",
+            "大雪",
+            "小雪"
+          ]
+        }
+      ],
+      "series": [
+        {
+          "data": [
+            1.0,
+            0.5,
+            1.5,
+            1.5,
+            1.5,
+            1.5,
+            1.5,
+            1.5
+          ]
+        },
+        {
+          "data": [
+            1.0,
+            1.0,
+            0.9,
+            1.0,
+            0.8,
+            0.9,
+            0.8,
+            1.0
+          ]
+        },
+        {
+          "data": [
+            1.0,
+            0.5,
+            0.8,
+            1.0,
+            0.8,
+            0.5,
+            0.8,
+            0.8
+          ]
+        }
+      ]
+    }
+  }
+}
