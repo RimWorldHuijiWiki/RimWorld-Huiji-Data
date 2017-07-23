@@ -1,0 +1,54 @@
+{
+  "defType": "TerrainDef",
+  "defName": "CarpetBlue",
+  "label": "蓝地毯",
+  "description": "带有蓝色并十分舒适的地毯。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 13.705
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 135.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": 2.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.32
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "Cloth",
+      "name": "布",
+      "value": 7
+    }
+  ],
+  "researchPrerequisites": [
+    {
+      "defName": "CarpetMaking",
+      "label": "地毯铺设"
+    }
+  ],
+  "resourcesFractionWhenDeconstructed": 0.75,
+  "texture": "Texture_terrain_surfaces_carpet.png",
+  "layerable": true,
+  "color": "#184179",
+  "driesTo": null
+}

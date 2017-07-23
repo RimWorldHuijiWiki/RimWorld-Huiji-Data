@@ -1,0 +1,49 @@
+{
+  "defType": "TerrainDef",
+  "defName": "Concrete",
+  "label": "混凝土地面",
+  "description": "迅速浇灌的混凝土。在上面走很迅速，但是比较难看。你需要把地面挖开才能浇灌混凝土。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 2.2
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 100.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": -1.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.0
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "Steel",
+      "name": "钢铁",
+      "value": 1
+    }
+  ],
+  "researchPrerequisites": null,
+  "resourcesFractionWhenDeconstructed": 0.75,
+  "texture": "Texture_terrain_surfaces_concrete.png",
+  "layerable": true,
+  "color": null,
+  "driesTo": null
+}

@@ -1,0 +1,49 @@
+{
+  "defType": "TerrainDef",
+  "defName": "FlagstoneSandstone",
+  "label": "砂岩石板",
+  "description": "粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 9.1
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 500.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": 0.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.0
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "BlocksSandstone",
+      "name": "砂岩砖",
+      "value": 4
+    }
+  ],
+  "researchPrerequisites": null,
+  "resourcesFractionWhenDeconstructed": 0.0,
+  "texture": "Texture_terrain_surfaces_flagstone.png",
+  "layerable": true,
+  "color": "#7E685E",
+  "driesTo": null
+}

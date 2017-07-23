@@ -1,0 +1,49 @@
+{
+  "defType": "TerrainDef",
+  "defName": "GoldTile",
+  "label": "金质地砖",
+  "description": "最美丽和豪华的一种地板。非常昂贵，铺设时需要大量的工作量。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 855.0
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 1800.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": 4.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.0
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "Gold",
+      "name": "黄金",
+      "value": 85
+    }
+  ],
+  "researchPrerequisites": null,
+  "resourcesFractionWhenDeconstructed": 0.75,
+  "texture": "Texture_terrain_surfaces_genericfloortile.png",
+  "layerable": true,
+  "color": "#A6A659",
+  "driesTo": null
+}

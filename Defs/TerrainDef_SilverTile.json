@@ -1,0 +1,49 @@
+{
+  "defType": "TerrainDef",
+  "defName": "SilverTile",
+  "label": "银质地砖",
+  "description": "造价昂贵且铺设缓慢，但非常漂亮。适合所有类型的豪华房间。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 88.6
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 1200.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": 2.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.0
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "Silver",
+      "name": "白银",
+      "value": 85
+    }
+  ],
+  "researchPrerequisites": null,
+  "resourcesFractionWhenDeconstructed": 0.75,
+  "texture": "Texture_terrain_surfaces_genericfloortile.png",
+  "layerable": true,
+  "color": "#737373",
+  "driesTo": null
+}

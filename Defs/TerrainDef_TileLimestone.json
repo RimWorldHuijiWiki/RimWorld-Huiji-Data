@@ -1,0 +1,49 @@
+{
+  "defType": "TerrainDef",
+  "defName": "TileLimestone",
+  "label": "石灰岩地砖",
+  "description": "坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。",
+  "statBases": [
+    {
+      "defName": "MarketValue",
+      "name": "市场价值",
+      "value": 10.9
+    },
+    {
+      "defName": "WorkToBuild",
+      "name": "工作量（建造）",
+      "value": 1100.0
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观度",
+      "value": 1.0
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁度",
+      "value": 0.0
+    },
+    {
+      "defName": "Flammability",
+      "name": "易燃性",
+      "value": 0.0
+    }
+  ],
+  "passability": 0,
+  "walkSpeed": "Infinity",
+  "fertility": 0.0,
+  "costList": [
+    {
+      "defName": "BlocksLimestone",
+      "name": "石灰岩砖",
+      "value": 4
+    }
+  ],
+  "researchPrerequisites": null,
+  "resourcesFractionWhenDeconstructed": 0.75,
+  "texture": "Texture_terrain_surfaces_tilestone.png",
+  "layerable": true,
+  "color": "#9E9987",
+  "driesTo": null
+}
