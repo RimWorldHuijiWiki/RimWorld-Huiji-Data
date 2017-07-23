@@ -1,0 +1,14 @@
+{
+  "defType": "BiomeDef",
+  "defName": "Ocean",
+  "label": "海洋",
+  "description": "这里是一片汪洋，鱼儿会很喜欢这里的，你可就不一定了。",
+  "animalDensity": 0.0,
+  "plantDensity": 0.0,
+  "diseaseMtbDays": 60.0,
+  "hasVirtualPlants": false,
+  "animalWeights": {},
+  "plantWeights": {},
+  "diseaseWeights": {},
+  "texture": "Texture_world_biomes_ocean.png"
+}

@@ -1,0 +1,25 @@
+{
+  "defType": "BiomeDef",
+  "defName": "SeaIce",
+  "label": "海洋冰盖",
+  "description": "洋面上的永久性冰盖。没有土地，没有植物，没有可开采的矿物，以及极少数的动物。由于厚厚的积雪和冰隙，使得出行变得极为缓慢。",
+  "animalDensity": 0.05,
+  "plantDensity": 0.0,
+  "diseaseMtbDays": 80.0,
+  "hasVirtualPlants": false,
+  "animalWeights": {
+    "野牦牛": 0.0133333327,
+    "北极熊": 0.08,
+    "雪兔": 1.0,
+    "北极狼": 0.02,
+    "北极狐": 0.02
+  },
+  "plantWeights": {},
+  "diseaseWeights": {
+    "流感": 100.0,
+    "瘟疫": 80.0,
+    "纤维纳米机械感染": 30.0,
+    "感官纳米机械感染": 30.0
+  },
+  "texture": "Texture_world_biomes_icesheetocean.png"
+}

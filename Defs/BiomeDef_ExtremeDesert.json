@@ -1,0 +1,31 @@
+{
+  "defType": "BiomeDef",
+  "defName": "ExtremeDesert",
+  "label": "极端沙漠",
+  "description": "极端炎热干旱的地区，几乎没有生物的痕迹。极高的温度和有限的植物使此处非常难以生存，即使是适应力很强的动物也是如此。",
+  "animalDensity": 0.05,
+  "plantDensity": 0.002,
+  "diseaseMtbDays": 90.0,
+  "hasVirtualPlants": false,
+  "animalWeights": {
+    "鬣蜥": 0.3,
+    "单峰骆驼": 0.075,
+    "巨型甲虫": 1.0,
+    "老鼠": 0.15,
+    "耳廓狐": 0.04
+  },
+  "plantWeights": {
+    "龙舌兰": 0.25,
+    "巨掌仙人掌": 1.0,
+    "草": 6.0
+  },
+  "diseaseWeights": {
+    "流感": 100.0,
+    "瘟疫": 80.0,
+    "纤维纳米机械感染": 30.0,
+    "感官纳米机械感染": 30.0,
+    "肠道蠕虫": 40.0,
+    "肌肉寄生虫": 40.0
+  },
+  "texture": "Texture_world_biomes_extremedesert.png"
+}
