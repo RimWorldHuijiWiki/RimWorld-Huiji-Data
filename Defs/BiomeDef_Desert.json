@@ -7,34 +7,126 @@
   "plantDensity": 0.05,
   "diseaseMtbDays": 80.0,
   "hasVirtualPlants": true,
-  "animalWeights": {
-    "瞪羚": 0.0117647061,
-    "鬣蜥": 0.7,
-    "单峰骆驼": 0.25,
-    "美洲狮": 0.02,
-    "鸸鹋": 0.02,
-    "鸵鸟": 0.2,
-    "巨型甲虫": 1.0,
-    "老鼠": 0.3,
-    "爆炸羊": 0.0444444455,
-    "耳廓狐": 0.02
-  },
-  "plantWeights": {
-    "龙舌兰": 0.25,
-    "巨掌仙人掌": 1.0,
-    "针垫掌": 1.0,
-    "灌木": 0.25,
-    "草": 6.0,
-    "蒲公英": 0.5,
-    "杨树": 0.45
-  },
-  "diseaseWeights": {
-    "流感": 100.0,
-    "瘟疫": 80.0,
-    "纤维纳米机械感染": 30.0,
-    "感官纳米机械感染": 30.0,
-    "肠道蠕虫": 60.0,
-    "肌肉寄生虫": 60.0
-  },
+  "animalWeights": [
+    {
+      "defName": "Gazelle",
+      "name": "瞪羚",
+      "value": 0.0117647061
+    },
+    {
+      "defName": "Iguana",
+      "name": "鬣蜥",
+      "value": 0.7
+    },
+    {
+      "defName": "Dromedary",
+      "name": "单峰骆驼",
+      "value": 0.25
+    },
+    {
+      "defName": "Cougar",
+      "name": "美洲狮",
+      "value": 0.02
+    },
+    {
+      "defName": "Emu",
+      "name": "鸸鹋",
+      "value": 0.02
+    },
+    {
+      "defName": "Ostrich",
+      "name": "鸵鸟",
+      "value": 0.2
+    },
+    {
+      "defName": "Megascarab",
+      "name": "巨型甲虫",
+      "value": 1.0
+    },
+    {
+      "defName": "Rat",
+      "name": "老鼠",
+      "value": 0.3
+    },
+    {
+      "defName": "Boomalope",
+      "name": "爆炸羊",
+      "value": 0.0444444455
+    },
+    {
+      "defName": "FoxFennec",
+      "name": "耳廓狐",
+      "value": 0.02
+    }
+  ],
+  "plantWeights": [
+    {
+      "defName": "PlantAgave",
+      "name": "龙舌兰",
+      "value": 0.25
+    },
+    {
+      "defName": "PlantSaguaroCactus",
+      "name": "巨掌仙人掌",
+      "value": 1.0
+    },
+    {
+      "defName": "PlantPincushionCactus",
+      "name": "针垫掌",
+      "value": 1.0
+    },
+    {
+      "defName": "PlantBush",
+      "name": "灌木",
+      "value": 0.25
+    },
+    {
+      "defName": "PlantGrass",
+      "name": "草",
+      "value": 6.0
+    },
+    {
+      "defName": "PlantDandelion",
+      "name": "蒲公英",
+      "value": 0.5
+    },
+    {
+      "defName": "PlantTreePoplar",
+      "name": "杨树",
+      "value": 0.45
+    }
+  ],
+  "diseaseWeights": [
+    {
+      "defName": "Flu",
+      "name": "流感",
+      "value": 100.0
+    },
+    {
+      "defName": "Plague",
+      "name": "瘟疫",
+      "value": 80.0
+    },
+    {
+      "defName": "FibrousMechanites",
+      "name": "纤维纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "SensoryMechanites",
+      "name": "感官纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "GutWorms",
+      "name": "肠道蠕虫",
+      "value": 60.0
+    },
+    {
+      "defName": "MuscleParasites",
+      "name": "肌肉寄生虫",
+      "value": 60.0
+    }
+  ],
   "texture": "Texture_world_biomes_desert.png"
 }

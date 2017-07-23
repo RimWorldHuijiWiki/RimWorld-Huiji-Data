@@ -7,48 +7,196 @@
   "plantDensity": 0.55,
   "diseaseMtbDays": 45.0,
   "hasVirtualPlants": true,
-  "animalWeights": {
-    "野牦牛": 0.0333333351,
-    "瞪羚": 0.005882353,
-    "灰熊": 0.022,
-    "美洲狮": 0.012,
-    "猞猁": 0.008,
-    "鸸鹋": 0.1,
-    "鸵鸟": 0.1,
-    "火鸡": 0.5,
-    "羊驼": 0.1,
-    "巨懒": 0.04,
-    "野兔": 1.0,
-    "松鼠": 1.0,
-    "爆炸鼠": 0.25,
-    "浣熊": 0.4,
-    "老鼠": 0.8,
-    "鹿": 0.0833333358,
-    "野山羊": 0.15,
-    "野猪": 0.06666667,
-    "乌龟": 0.4,
-    "爆炸羊": 0.0444444455,
-    "座狼": 0.00342857139,
-    "森林狼": 0.04,
-    "赤狐": 0.04
-  },
-  "plantWeights": {
-    "野山莓": 0.1,
-    "灌木": 0.7,
-    "野生药草": 0.05,
-    "草": 8.0,
-    "蒲公英": 0.8,
-    "橡树": 0.5,
-    "杨树": 0.5
-  },
-  "diseaseWeights": {
-    "流感": 100.0,
-    "瘟疫": 100.0,
-    "疟疾": 100.0,
-    "纤维纳米机械感染": 30.0,
-    "感官纳米机械感染": 30.0,
-    "肠道蠕虫": 50.0,
-    "肌肉寄生虫": 50.0
-  },
+  "animalWeights": [
+    {
+      "defName": "Muffalo",
+      "name": "野牦牛",
+      "value": 0.0333333351
+    },
+    {
+      "defName": "Gazelle",
+      "name": "瞪羚",
+      "value": 0.005882353
+    },
+    {
+      "defName": "GrizzlyBear",
+      "name": "灰熊",
+      "value": 0.022
+    },
+    {
+      "defName": "Cougar",
+      "name": "美洲狮",
+      "value": 0.012
+    },
+    {
+      "defName": "Lynx",
+      "name": "猞猁",
+      "value": 0.008
+    },
+    {
+      "defName": "Emu",
+      "name": "鸸鹋",
+      "value": 0.1
+    },
+    {
+      "defName": "Ostrich",
+      "name": "鸵鸟",
+      "value": 0.1
+    },
+    {
+      "defName": "Turkey",
+      "name": "火鸡",
+      "value": 0.5
+    },
+    {
+      "defName": "Alpaca",
+      "name": "羊驼",
+      "value": 0.1
+    },
+    {
+      "defName": "Megasloth",
+      "name": "巨懒",
+      "value": 0.04
+    },
+    {
+      "defName": "Hare",
+      "name": "野兔",
+      "value": 1.0
+    },
+    {
+      "defName": "Squirrel",
+      "name": "松鼠",
+      "value": 1.0
+    },
+    {
+      "defName": "Boomrat",
+      "name": "爆炸鼠",
+      "value": 0.25
+    },
+    {
+      "defName": "Raccoon",
+      "name": "浣熊",
+      "value": 0.4
+    },
+    {
+      "defName": "Rat",
+      "name": "老鼠",
+      "value": 0.8
+    },
+    {
+      "defName": "Deer",
+      "name": "鹿",
+      "value": 0.0833333358
+    },
+    {
+      "defName": "Ibex",
+      "name": "野山羊",
+      "value": 0.15
+    },
+    {
+      "defName": "WildBoar",
+      "name": "野猪",
+      "value": 0.06666667
+    },
+    {
+      "defName": "Tortoise",
+      "name": "乌龟",
+      "value": 0.4
+    },
+    {
+      "defName": "Boomalope",
+      "name": "爆炸羊",
+      "value": 0.0444444455
+    },
+    {
+      "defName": "Warg",
+      "name": "座狼",
+      "value": 0.00342857139
+    },
+    {
+      "defName": "WolfTimber",
+      "name": "森林狼",
+      "value": 0.04
+    },
+    {
+      "defName": "FoxRed",
+      "name": "赤狐",
+      "value": 0.04
+    }
+  ],
+  "plantWeights": [
+    {
+      "defName": "PlantRaspberry",
+      "name": "野山莓",
+      "value": 0.1
+    },
+    {
+      "defName": "PlantBush",
+      "name": "灌木",
+      "value": 0.7
+    },
+    {
+      "defName": "PlantWildHealroot",
+      "name": "野生药草",
+      "value": 0.05
+    },
+    {
+      "defName": "PlantGrass",
+      "name": "草",
+      "value": 8.0
+    },
+    {
+      "defName": "PlantDandelion",
+      "name": "蒲公英",
+      "value": 0.8
+    },
+    {
+      "defName": "PlantTreeOak",
+      "name": "橡树",
+      "value": 0.5
+    },
+    {
+      "defName": "PlantTreePoplar",
+      "name": "杨树",
+      "value": 0.5
+    }
+  ],
+  "diseaseWeights": [
+    {
+      "defName": "Flu",
+      "name": "流感",
+      "value": 100.0
+    },
+    {
+      "defName": "Plague",
+      "name": "瘟疫",
+      "value": 100.0
+    },
+    {
+      "defName": "Malaria",
+      "name": "疟疾",
+      "value": 100.0
+    },
+    {
+      "defName": "FibrousMechanites",
+      "name": "纤维纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "SensoryMechanites",
+      "name": "感官纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "GutWorms",
+      "name": "肠道蠕虫",
+      "value": 50.0
+    },
+    {
+      "defName": "MuscleParasites",
+      "name": "肌肉寄生虫",
+      "value": 50.0
+    }
+  ],
   "texture": "Texture_world_biomes_temperateforest.png"
 }

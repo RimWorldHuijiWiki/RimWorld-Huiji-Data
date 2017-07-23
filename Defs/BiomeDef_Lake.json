@@ -7,8 +7,8 @@
   "plantDensity": 0.0,
   "diseaseMtbDays": 60.0,
   "hasVirtualPlants": false,
-  "animalWeights": {},
-  "plantWeights": {},
-  "diseaseWeights": {},
+  "animalWeights": null,
+  "plantWeights": null,
+  "diseaseWeights": null,
   "texture": "Texture_world_biomes_ocean.png"
 }

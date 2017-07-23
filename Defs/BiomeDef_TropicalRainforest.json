@@ -7,39 +7,151 @@
   "plantDensity": 0.85,
   "diseaseMtbDays": 30.0,
   "hasVirtualPlants": true,
-  "animalWeights": {
-    "黑豹": 0.09,
-    "鹤鸵": 0.7,
-    "鸸鹋": 0.2,
-    "火鸡": 0.2,
-    "羊驼": 0.5,
-    "象": 0.02,
-    "水豚": 0.116666667,
-    "栗鼠": 0.6,
-    "老鼠": 1.0,
-    "野猪": 0.13333334,
-    "乌龟": 0.6,
-    "眼镜蛇": 0.17,
-    "猴": 0.2,
-    "爆炸羊": 0.155555546
-  },
-  "plantWeights": {
-    "野山莓": 0.1,
-    "灌木": 0.7,
-    "蒲公英": 0.8,
-    "高草": 7.0,
-    "柚木树": 0.3,
-    "号角树": 0.6
-  },
-  "diseaseWeights": {
-    "流感": 100.0,
-    "瘟疫": 100.0,
-    "疟疾": 160.0,
-    "昏睡病": 140.0,
-    "纤维纳米机械感染": 30.0,
-    "感官纳米机械感染": 30.0,
-    "肠道蠕虫": 80.0,
-    "肌肉寄生虫": 80.0
-  },
+  "animalWeights": [
+    {
+      "defName": "Panther",
+      "name": "黑豹",
+      "value": 0.09
+    },
+    {
+      "defName": "Cassowary",
+      "name": "鹤鸵",
+      "value": 0.7
+    },
+    {
+      "defName": "Emu",
+      "name": "鸸鹋",
+      "value": 0.2
+    },
+    {
+      "defName": "Turkey",
+      "name": "火鸡",
+      "value": 0.2
+    },
+    {
+      "defName": "Alpaca",
+      "name": "羊驼",
+      "value": 0.5
+    },
+    {
+      "defName": "Elephant",
+      "name": "象",
+      "value": 0.02
+    },
+    {
+      "defName": "Capybara",
+      "name": "水豚",
+      "value": 0.116666667
+    },
+    {
+      "defName": "Chinchilla",
+      "name": "栗鼠",
+      "value": 0.6
+    },
+    {
+      "defName": "Rat",
+      "name": "老鼠",
+      "value": 1.0
+    },
+    {
+      "defName": "WildBoar",
+      "name": "野猪",
+      "value": 0.13333334
+    },
+    {
+      "defName": "Tortoise",
+      "name": "乌龟",
+      "value": 0.6
+    },
+    {
+      "defName": "Cobra",
+      "name": "眼镜蛇",
+      "value": 0.17
+    },
+    {
+      "defName": "Monkey",
+      "name": "猴",
+      "value": 0.2
+    },
+    {
+      "defName": "Boomalope",
+      "name": "爆炸羊",
+      "value": 0.155555546
+    }
+  ],
+  "plantWeights": [
+    {
+      "defName": "PlantRaspberry",
+      "name": "野山莓",
+      "value": 0.1
+    },
+    {
+      "defName": "PlantBush",
+      "name": "灌木",
+      "value": 0.7
+    },
+    {
+      "defName": "PlantDandelion",
+      "name": "蒲公英",
+      "value": 0.8
+    },
+    {
+      "defName": "PlantTallGrass",
+      "name": "高草",
+      "value": 7.0
+    },
+    {
+      "defName": "PlantTreeTeak",
+      "name": "柚木树",
+      "value": 0.3
+    },
+    {
+      "defName": "PlantTreeCecropia",
+      "name": "号角树",
+      "value": 0.6
+    }
+  ],
+  "diseaseWeights": [
+    {
+      "defName": "Flu",
+      "name": "流感",
+      "value": 100.0
+    },
+    {
+      "defName": "Plague",
+      "name": "瘟疫",
+      "value": 100.0
+    },
+    {
+      "defName": "Malaria",
+      "name": "疟疾",
+      "value": 160.0
+    },
+    {
+      "defName": "SleepingSickness",
+      "name": "昏睡病",
+      "value": 140.0
+    },
+    {
+      "defName": "FibrousMechanites",
+      "name": "纤维纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "SensoryMechanites",
+      "name": "感官纳米机械感染",
+      "value": 30.0
+    },
+    {
+      "defName": "GutWorms",
+      "name": "肠道蠕虫",
+      "value": 80.0
+    },
+    {
+      "defName": "MuscleParasites",
+      "name": "肌肉寄生虫",
+      "value": 80.0
+    }
+  ],
   "texture": "Texture_world_biomes_tropicalrainforest.png"
 }
