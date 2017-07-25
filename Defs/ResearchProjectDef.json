@@ -59,12 +59,12 @@
   ],
   "charts": {
     "compare": {
-      "rows": [
+      "factions": [
         {
           "level": 1,
           "enum": "Animal",
           "name": "茹毛饮血",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
@@ -75,37 +75,37 @@
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 1.0
+              "factor": 2.0
             },
             {
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 1.0
+              "factor": 3.0
             },
             {
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 1.0
+              "factor": 4.0
             },
             {
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 1.0
+              "factor": 5.0
             },
             {
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 1.0
+              "factor": 6.0
             },
             {
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 7.0
             }
           ]
         },
@@ -113,12 +113,12 @@
           "level": 2,
           "enum": "Neolithic",
           "name": "石器时代",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 2,
@@ -130,31 +130,31 @@
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 1.0
+              "factor": 2.0
             },
             {
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 1.0
+              "factor": 3.0
             },
             {
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 1.0
+              "factor": 4.0
             },
             {
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 1.0
+              "factor": 5.0
             },
             {
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 6.0
             }
           ]
         },
@@ -162,18 +162,18 @@
           "level": 3,
           "enum": "Medieval",
           "name": "中世纪",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 3.0
+              "factor": 1.0
             },
             {
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 3,
@@ -185,25 +185,25 @@
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 1.0
+              "factor": 2.0
             },
             {
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 1.0
+              "factor": 3.0
             },
             {
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 1.0
+              "factor": 4.0
             },
             {
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 5.0
             }
           ]
         },
@@ -211,24 +211,24 @@
           "level": 4,
           "enum": "Industrial",
           "name": "工业时代",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 4.0
+              "factor": 1.0
             },
             {
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 3.0
+              "factor": 1.0
             },
             {
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 4,
@@ -240,19 +240,19 @@
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 1.0
+              "factor": 2.0
             },
             {
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 1.0
+              "factor": 3.0
             },
             {
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 4.0
             }
           ]
         },
@@ -260,30 +260,30 @@
           "level": 5,
           "enum": "Spacer",
           "name": "太空时代",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 5.0
+              "factor": 1.0
             },
             {
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 4.0
+              "factor": 1.0
             },
             {
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 3.0
+              "factor": 1.0
             },
             {
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 5,
@@ -295,13 +295,13 @@
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 1.0
+              "factor": 2.0
             },
             {
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 3.0
             }
           ]
         },
@@ -309,36 +309,36 @@
           "level": 6,
           "enum": "Ultra",
           "name": "极致时代",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 6.0
+              "factor": 1.0
             },
             {
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 5.0
+              "factor": 1.0
             },
             {
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 4.0
+              "factor": 1.0
             },
             {
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 3.0
+              "factor": 1.0
             },
             {
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 6,
@@ -350,7 +350,7 @@
               "level": 7,
               "enum": "Transcendent",
               "name": "超凡时代",
-              "factor": 1.0
+              "factor": 2.0
             }
           ]
         },
@@ -358,42 +358,42 @@
           "level": 7,
           "enum": "Transcendent",
           "name": "超凡时代",
-          "cols": [
+          "projects": [
             {
               "level": 1,
               "enum": "Animal",
               "name": "茹毛饮血",
-              "factor": 7.0
+              "factor": 1.0
             },
             {
               "level": 2,
               "enum": "Neolithic",
               "name": "石器时代",
-              "factor": 6.0
+              "factor": 1.0
             },
             {
               "level": 3,
               "enum": "Medieval",
               "name": "中世纪",
-              "factor": 5.0
+              "factor": 1.0
             },
             {
               "level": 4,
               "enum": "Industrial",
               "name": "工业时代",
-              "factor": 4.0
+              "factor": 1.0
             },
             {
               "level": 5,
               "enum": "Spacer",
               "name": "太空时代",
-              "factor": 3.0
+              "factor": 1.0
             },
             {
               "level": 6,
               "enum": "Ultra",
               "name": "极致时代",
-              "factor": 2.0
+              "factor": 1.0
             },
             {
               "level": 7,
@@ -403,6 +403,16 @@
             }
           ]
         }
+      ],
+      "color": [
+        "#ff6666",
+        "#ffe966",
+        "#92ff66",
+        "#66ffbd",
+        "#66bdff",
+        "#9266ff",
+        "#ff66e9",
+        "#ff6666"
       ]
     },
     "graph": {
