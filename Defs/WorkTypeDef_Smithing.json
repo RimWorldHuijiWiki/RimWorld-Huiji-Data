@@ -1,0 +1,18 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Smithing",
+  "label": "锻造",
+  "description": "铁匠负责将原材料锻造成武器和工具。",
+  "workTags": [
+    "专业工作",
+    "制作物品"
+  ],
+  "relevantSkills": [
+    "手工"
+  ],
+  "workGiversByPriority": [
+    "锻造武器",
+    "完成机械加工台的清单",
+    "装配零部件"
+  ]
+}

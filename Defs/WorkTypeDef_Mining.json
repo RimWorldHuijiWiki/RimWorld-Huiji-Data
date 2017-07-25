@@ -1,0 +1,17 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Mining",
+  "label": "采矿",
+  "description": "挖掘与钻取。",
+  "workTags": [
+    "专业工作",
+    "采矿"
+  ],
+  "relevantSkills": [
+    "采矿"
+  ],
+  "workGiversByPriority": [
+    "采矿",
+    "钻探"
+  ]
+}

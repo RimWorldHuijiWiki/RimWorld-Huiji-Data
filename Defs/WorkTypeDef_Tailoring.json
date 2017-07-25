@@ -1,0 +1,16 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Tailoring",
+  "label": "缝制",
+  "description": "裁缝负责将原材料缝制成衣物。",
+  "workTags": [
+    "专业工作",
+    "制作物品"
+  ],
+  "relevantSkills": [
+    "手工"
+  ],
+  "workGiversByPriority": [
+    "缝制衣物"
+  ]
+}

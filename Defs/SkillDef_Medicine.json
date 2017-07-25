@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Medicine",
+  "label": "医疗",
+  "skillLabel": "医疗",
+  "description": "治疗伤口和疾病以及执行医疗手术。",
+  "disablingWorkTags": [
+    0
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Mining",
+  "label": "采矿",
+  "skillLabel": "采矿",
+  "description": "挖掘隧道，开采矿产或埋藏资源。",
+  "disablingWorkTags": [
+    0
+  ]
+}

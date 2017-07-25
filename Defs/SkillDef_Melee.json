@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Melee",
+  "label": "格斗",
+  "skillLabel": "格斗",
+  "description": "使用各种类型的近战武器以及徒手战斗。",
+  "disablingWorkTags": [
+    8
+  ]
+}

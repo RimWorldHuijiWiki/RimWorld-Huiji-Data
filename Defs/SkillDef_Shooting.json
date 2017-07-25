@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Shooting",
+  "label": "射击",
+  "skillLabel": "射击",
+  "description": "使用各种类型的远程武器。",
+  "disablingWorkTags": [
+    0
+  ]
+}

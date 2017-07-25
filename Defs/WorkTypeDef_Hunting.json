@@ -1,0 +1,15 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Hunting",
+  "label": "狩猎",
+  "description": "猎人负责狩猎你指定的野生动物。",
+  "workTags": [
+    "暴力行为"
+  ],
+  "relevantSkills": [
+    "射击"
+  ],
+  "workGiversByPriority": [
+    "狩猎"
+  ]
+}

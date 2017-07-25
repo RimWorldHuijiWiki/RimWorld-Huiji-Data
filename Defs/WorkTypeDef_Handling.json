@@ -1,0 +1,19 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Handling",
+  "label": "驯兽",
+  "description": "驯兽师负责驯服野生动物、训练已驯服的动物、收获畜产品、宰杀已驯服的动物。",
+  "workTags": [
+    "驯养动物"
+  ],
+  "relevantSkills": [
+    "驯兽"
+  ],
+  "workGiversByPriority": [
+    "宰杀动物",
+    "给动物挤奶",
+    "给动物剪毛",
+    "驯服动物",
+    "训练动物"
+  ]
+}

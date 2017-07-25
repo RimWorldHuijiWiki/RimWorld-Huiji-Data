@@ -1,0 +1,13 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "PatientEmergency",
+  "label": "就医",
+  "description": "当有威胁生命的健康问题时，躺到医疗床上接收治疗。",
+  "workTags": [
+    "（无）"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "去床上接收紧急治疗"
+  ]
+}

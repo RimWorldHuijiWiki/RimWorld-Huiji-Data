@@ -1,0 +1,13 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "PatientBedRest",
+  "label": "休养",
+  "description": "非致命的疾病可以通过卧床休养得到恢复。",
+  "workTags": [
+    "（无）"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "卧床养病"
+  ]
+}

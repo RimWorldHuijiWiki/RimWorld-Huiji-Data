@@ -1,0 +1,13 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Firefighter",
+  "label": "灭火",
+  "description": "扑灭居住区内的火灾。",
+  "workTags": [
+    "灭火"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "扑灭火焰"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Research",
+  "label": "研究",
+  "description": "研究员负责研究工作。因为研究是一项长期工作，专门的研究员需要降低其他工作的优先度。",
+  "workTags": [
+    "脑力工作"
+  ],
+  "relevantSkills": [
+    "智识"
+  ],
+  "workGiversByPriority": [
+    "研究科技"
+  ]
+}

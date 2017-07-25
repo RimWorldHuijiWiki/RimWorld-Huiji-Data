@@ -1,0 +1,15 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Cleaning",
+  "label": "清洁",
+  "description": "清洁工负责清理居住区的污渍、清除除雪区的积雪。",
+  "workTags": [
+    "简易工作",
+    "清洁"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "清除积雪",
+    "清理污渍"
+  ]
+}

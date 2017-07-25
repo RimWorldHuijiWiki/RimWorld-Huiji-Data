@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Intellectual",
+  "label": "智识",
+  "skillLabel": "智识",
+  "description": "调查取证、建立关联、计算以及使用逻辑。",
+  "disablingWorkTags": [
+    0
+  ]
+}

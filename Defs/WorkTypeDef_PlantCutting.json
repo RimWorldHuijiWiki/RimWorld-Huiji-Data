@@ -1,0 +1,14 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "PlantCutting",
+  "label": "割除",
+  "description": "收割者负责割除并收获你标记的植物，砍伐你标记的树木。",
+  "workTags": [
+    "简易工作",
+    "植物工作"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "割除植物"
+  ]
+}

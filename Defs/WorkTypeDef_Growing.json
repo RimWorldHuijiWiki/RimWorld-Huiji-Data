@@ -1,0 +1,17 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Growing",
+  "label": "种植",
+  "description": "种植者负责管理种植区、花盆和水栽培植物盆，种植或收获作物。",
+  "workTags": [
+    "专业工作",
+    "植物工作"
+  ],
+  "relevantSkills": [
+    "种植"
+  ],
+  "workGiversByPriority": [
+    "收获作物",
+    "播种作物"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Animals",
+  "label": "驯兽",
+  "skillLabel": "驯兽",
+  "description": "驯服、训练、管理、控制动物。",
+  "disablingWorkTags": [
+    0
+  ]
+}

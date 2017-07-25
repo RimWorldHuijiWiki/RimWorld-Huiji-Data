@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Cooking",
+  "label": "烹饪",
+  "skillLabel": "烹饪",
+  "description": "用原料烹饪食物。",
+  "disablingWorkTags": [
+    0
+  ]
+}

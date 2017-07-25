@@ -1,0 +1,13 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Flicker",
+  "label": "开关",
+  "description": "电工负责开关电源。当切换用电设备或电路开关的供电状态时，电工将会前往拨动开关。",
+  "workTags": [
+    "（无）"
+  ],
+  "relevantSkills": [],
+  "workGiversByPriority": [
+    "开关"
+  ]
+}

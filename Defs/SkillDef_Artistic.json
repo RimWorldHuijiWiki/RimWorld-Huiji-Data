@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Artistic",
+  "label": "艺术",
+  "skillLabel": "艺术",
+  "description": "制作工艺品。",
+  "disablingWorkTags": [
+    0
+  ]
+}

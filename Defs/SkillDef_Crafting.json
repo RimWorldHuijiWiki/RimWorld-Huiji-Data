@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Crafting",
+  "label": "手工",
+  "skillLabel": "手工",
+  "description": "制作一般物品，包括武器和工具。",
+  "disablingWorkTags": [
+    0
+  ]
+}

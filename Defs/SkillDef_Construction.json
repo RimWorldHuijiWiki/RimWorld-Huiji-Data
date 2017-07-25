@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Construction",
+  "label": "建造",
+  "skillLabel": "建造",
+  "description": "更好更快的建造结构和家具。",
+  "disablingWorkTags": [
+    0
+  ]
+}

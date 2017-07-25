@@ -1,0 +1,10 @@
+{
+  "defType": "SkillDef",
+  "defName": "Social",
+  "label": "社交",
+  "skillLabel": "社交",
+  "description": "谈判、说服、操纵、领导和激励其他人。",
+  "disablingWorkTags": [
+    0
+  ]
+}

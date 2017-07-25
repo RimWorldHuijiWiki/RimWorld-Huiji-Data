@@ -1,0 +1,15 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Art",
+  "label": "艺术",
+  "description": "艺术家负责用原材料创作出优秀的艺术品。",
+  "workTags": [
+    "艺术创作"
+  ],
+  "relevantSkills": [
+    "艺术"
+  ],
+  "workGiversByPriority": [
+    "雕刻"
+  ]
+}

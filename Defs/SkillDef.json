@@ -1,0 +1,178 @@
+{
+  "collection": "SkillDef",
+  "allDefs": [
+    "SkillDef_Shooting.json",
+    "SkillDef_Melee.json",
+    "SkillDef_Social.json",
+    "SkillDef_Animals.json",
+    "SkillDef_Medicine.json",
+    "SkillDef_Cooking.json",
+    "SkillDef_Construction.json",
+    "SkillDef_Growing.json",
+    "SkillDef_Mining.json",
+    "SkillDef_Artistic.json",
+    "SkillDef_Crafting.json",
+    "SkillDef_Intellectual.json"
+  ],
+  "charts": {
+    "compare": {},
+    "record": {
+      "IntervalTicks": 200,
+      "MinLevel": 0,
+      "MaxLevel": 20,
+      "MaxFullRateXpPerDay": 4000,
+      "SaturatedLearningFactor": 0.2,
+      "PassionsData": [
+        {
+          "Passion": 0,
+          "Descriptor": "无（学习速度33%）",
+          "LearningFactor": 0.333,
+          "GainJoyAmount": 0.0,
+          "Icon": null
+        },
+        {
+          "Passion": 1,
+          "Descriptor": "好奇（学习速度100%）",
+          "LearningFactor": 1.0,
+          "GainJoyAmount": 2E-05,
+          "Icon": "Texture_ui_icons_passionminor.png"
+        },
+        {
+          "Passion": 2,
+          "Descriptor": "狂热（学习速度150%）",
+          "LearningFactor": 1.5,
+          "GainJoyAmount": 4E-05,
+          "Icon": "Texture_ui_icons_passionmajor.png"
+        }
+      ],
+      "LevelsData": [
+        {
+          "Level": 0,
+          "Descriptor": "完全不懂",
+          "XpRequiredToLevelUp": 1000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 1,
+          "Descriptor": "无法胜任",
+          "XpRequiredToLevelUp": 2000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 2,
+          "Descriptor": "初步了解",
+          "XpRequiredToLevelUp": 3000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 3,
+          "Descriptor": "基本熟悉",
+          "XpRequiredToLevelUp": 4000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 4,
+          "Descriptor": "初级菜鸟",
+          "XpRequiredToLevelUp": 5000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 5,
+          "Descriptor": "入门新手",
+          "XpRequiredToLevelUp": 6000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 6,
+          "Descriptor": "实习阶段",
+          "XpRequiredToLevelUp": 7000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 7,
+          "Descriptor": "熟练实习",
+          "XpRequiredToLevelUp": 8000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 8,
+          "Descriptor": "专业人员",
+          "XpRequiredToLevelUp": 9000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 9,
+          "Descriptor": "熟练专业",
+          "XpRequiredToLevelUp": 10000,
+          "XpLostSpeed": 0.0
+        },
+        {
+          "Level": 10,
+          "Descriptor": "领域专家",
+          "XpRequiredToLevelUp": 11000,
+          "XpLostSpeed": -0.1
+        },
+        {
+          "Level": 11,
+          "Descriptor": "强力专家",
+          "XpRequiredToLevelUp": 12000,
+          "XpLostSpeed": -0.2
+        },
+        {
+          "Level": 12,
+          "Descriptor": "超强专家",
+          "XpRequiredToLevelUp": 13000,
+          "XpLostSpeed": -0.4
+        },
+        {
+          "Level": 13,
+          "Descriptor": "领域大师",
+          "XpRequiredToLevelUp": 14000,
+          "XpLostSpeed": -0.65
+        },
+        {
+          "Level": 14,
+          "Descriptor": "强力大师",
+          "XpRequiredToLevelUp": 15000,
+          "XpLostSpeed": -1.0
+        },
+        {
+          "Level": 15,
+          "Descriptor": "星际大师",
+          "XpRequiredToLevelUp": 16000,
+          "XpLostSpeed": -1.5
+        },
+        {
+          "Level": 16,
+          "Descriptor": "星系大师",
+          "XpRequiredToLevelUp": 17000,
+          "XpLostSpeed": -2.0
+        },
+        {
+          "Level": 17,
+          "Descriptor": "终极大师",
+          "XpRequiredToLevelUp": 18000,
+          "XpLostSpeed": -3.0
+        },
+        {
+          "Level": 18,
+          "Descriptor": "预见先知",
+          "XpRequiredToLevelUp": 19000,
+          "XpLostSpeed": -4.0
+        },
+        {
+          "Level": 19,
+          "Descriptor": "永恒传奇",
+          "XpRequiredToLevelUp": 20000,
+          "XpLostSpeed": -6.0
+        },
+        {
+          "Level": 20,
+          "Descriptor": "造物之主",
+          "XpRequiredToLevelUp": 21000,
+          "XpLostSpeed": -8.0
+        }
+      ]
+    }
+  }
+}

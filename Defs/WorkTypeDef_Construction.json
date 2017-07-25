@@ -1,0 +1,25 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Construction",
+  "label": "建造",
+  "description": "建造者会建造你指定的建筑，并修理损坏的建筑、家具、工作台等。",
+  "workTags": [
+    "专业工作"
+  ],
+  "relevantSkills": [
+    "建造"
+  ],
+  "workGiversByPriority": [
+    "替换损坏的零部件",
+    "修理受损的建筑",
+    "建造屋顶",
+    "移除屋顶",
+    "建造布置好的框架",
+    "搬运材料至框架",
+    "搬运材料至蓝图",
+    "拆除建筑",
+    "卸载建筑",
+    "移除地板",
+    "打磨地面"
+  ]
+}

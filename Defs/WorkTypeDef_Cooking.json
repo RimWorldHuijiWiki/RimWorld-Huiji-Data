@@ -1,0 +1,20 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Cooking",
+  "label": "烹饪",
+  "description": "厨师负责烹饪食物、屠宰尸体、填充储料器。",
+  "workTags": [
+    "专业工作",
+    "烹饪"
+  ],
+  "relevantSkills": [
+    "烹饪"
+  ],
+  "workGiversByPriority": [
+    "在炉灶烹饪食物",
+    "在篝火烹饪食物",
+    "屠宰尸体",
+    "装填进料口",
+    "在酿造台酿酒"
+  ]
+}

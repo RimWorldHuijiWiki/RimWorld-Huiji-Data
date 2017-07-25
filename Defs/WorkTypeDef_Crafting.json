@@ -1,0 +1,21 @@
+{
+  "defType": "WorkTypeDef",
+  "defName": "Crafting",
+  "label": "制作",
+  "description": "工匠负责把原材料制成成品。",
+  "workTags": [
+    "专业工作",
+    "制作物品"
+  ],
+  "relevantSkills": [
+    "手工"
+  ],
+  "workGiversByPriority": [
+    "改装机械体",
+    "完成手工加工点的清单",
+    "操作精炼设备",
+    "在药物试验台制作药物或成瘾品",
+    "切割岩石",
+    "熔炼物品"
+  ]
+}
