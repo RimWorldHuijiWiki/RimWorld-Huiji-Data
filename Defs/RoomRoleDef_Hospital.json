@@ -1,0 +1,19 @@
+{
+  "defType": "RoomRoleDef",
+  "defName": "Hospital",
+  "label": "医务室",
+  "relatedStats": [
+    {
+      "defName": "Space",
+      "name": "空间"
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观"
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁"
+    }
+  ]
+}

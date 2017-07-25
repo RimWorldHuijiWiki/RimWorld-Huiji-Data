@@ -1,0 +1,9 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "FoodPoisonChanceFactor",
+  "label": "食物带毒几率系数",
+  "isHidden": true,
+  "defaultScore": 1.0,
+  "scoreStages": null,
+  "color": null
+}

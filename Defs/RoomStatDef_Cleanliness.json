@@ -1,0 +1,37 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "Cleanliness",
+  "label": "清洁",
+  "isHidden": false,
+  "defaultScore": 0.0,
+  "scoreStages": [
+    {
+      "name": "非常脏",
+      "minScore": -3.40282347E+38
+    },
+    {
+      "name": "脏",
+      "minScore": -1.1
+    },
+    {
+      "name": "有点脏",
+      "minScore": -0.4
+    },
+    {
+      "name": "干净",
+      "minScore": -0.05
+    },
+    {
+      "name": "一尘不染",
+      "minScore": 0.4
+    }
+  ],
+  "color": [
+    "#ff6666",
+    "#e0ff66",
+    "#66ffa3",
+    "#66a3ff",
+    "#e066ff",
+    "#ff6666"
+  ]
+}

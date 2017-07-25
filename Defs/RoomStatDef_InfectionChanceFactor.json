@@ -1,0 +1,9 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "InfectionChanceFactor",
+  "label": "感染几率系数",
+  "isHidden": true,
+  "defaultScore": 1.0,
+  "scoreStages": null,
+  "color": null
+}

@@ -1,0 +1,47 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "Space",
+  "label": "空间",
+  "isHidden": false,
+  "defaultScore": 350.0,
+  "scoreStages": [
+    {
+      "name": "狭窄",
+      "minScore": -3.40282347E+38
+    },
+    {
+      "name": "有点狭窄",
+      "minScore": 12.5
+    },
+    {
+      "name": "一般",
+      "minScore": 29.0
+    },
+    {
+      "name": "有点宽敞",
+      "minScore": 55.0
+    },
+    {
+      "name": "宽敞",
+      "minScore": 70.0
+    },
+    {
+      "name": "非常宽敞",
+      "minScore": 130.0
+    },
+    {
+      "name": "极度宽敞",
+      "minScore": 349.5
+    }
+  ],
+  "color": [
+    "#ff6666",
+    "#ffe966",
+    "#92ff66",
+    "#66ffbd",
+    "#66bdff",
+    "#9266ff",
+    "#ff66e9",
+    "#ff6666"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "collection": "RoomRoleDef",
+  "allDefs": [
+    "RoomRoleDef_None.json",
+    "RoomRoleDef_Room.json",
+    "RoomRoleDef_Bedroom.json",
+    "RoomRoleDef_PrisonCell.json",
+    "RoomRoleDef_DiningRoom.json",
+    "RoomRoleDef_RecRoom.json",
+    "RoomRoleDef_Hospital.json",
+    "RoomRoleDef_Laboratory.json",
+    "RoomRoleDef_Workshop.json",
+    "RoomRoleDef_Barracks.json",
+    "RoomRoleDef_PrisonBarracks.json",
+    "RoomRoleDef_Kitchen.json",
+    "RoomRoleDef_Tomb.json",
+    "RoomRoleDef_Barn.json"
+  ],
+  "charts": {
+    "compare": {}
+  }
+}

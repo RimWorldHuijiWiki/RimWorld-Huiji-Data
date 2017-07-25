@@ -1,0 +1,9 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "SurgerySuccessChanceFactor",
+  "label": "手术成功几率系数",
+  "isHidden": true,
+  "defaultScore": 0.6,
+  "scoreStages": null,
+  "color": null
+}

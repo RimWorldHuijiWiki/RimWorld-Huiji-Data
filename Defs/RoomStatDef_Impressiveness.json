@@ -1,0 +1,62 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "Impressiveness",
+  "label": "观感",
+  "isHidden": false,
+  "defaultScore": 0.0,
+  "scoreStages": [
+    {
+      "name": "可怕",
+      "minScore": -3.40282347E+38
+    },
+    {
+      "name": "乏味",
+      "minScore": 20.0
+    },
+    {
+      "name": "平庸",
+      "minScore": 30.0
+    },
+    {
+      "name": "体面",
+      "minScore": 40.0
+    },
+    {
+      "name": "小有印象",
+      "minScore": 50.0
+    },
+    {
+      "name": "印象有些深刻",
+      "minScore": 65.0
+    },
+    {
+      "name": "印象非常深刻",
+      "minScore": 85.0
+    },
+    {
+      "name": "印象极度深刻",
+      "minScore": 120.0
+    },
+    {
+      "name": "难以置信",
+      "minScore": 170.0
+    },
+    {
+      "name": "奇迹非凡",
+      "minScore": 240.0
+    }
+  ],
+  "color": [
+    "#ff6666",
+    "#ffc266",
+    "#e0ff66",
+    "#85ff66",
+    "#66ffa3",
+    "#66ffff",
+    "#66a3ff",
+    "#8566ff",
+    "#e066ff",
+    "#ff66c2",
+    "#ff6666"
+  ]
+}

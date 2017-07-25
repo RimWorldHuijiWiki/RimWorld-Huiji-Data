@@ -1,0 +1,52 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "Beauty",
+  "label": "美观",
+  "isHidden": false,
+  "defaultScore": 0.0,
+  "scoreStages": [
+    {
+      "name": "极其丑陋",
+      "minScore": -3.40282347E+38
+    },
+    {
+      "name": "丑陋",
+      "minScore": -3.5
+    },
+    {
+      "name": "一般",
+      "minScore": 0.0
+    },
+    {
+      "name": "有点漂亮",
+      "minScore": 2.4
+    },
+    {
+      "name": "漂亮",
+      "minScore": 5.0
+    },
+    {
+      "name": "非常漂亮",
+      "minScore": 15.0
+    },
+    {
+      "name": "极度漂亮",
+      "minScore": 50.0
+    },
+    {
+      "name": "难以置信",
+      "minScore": 100.0
+    }
+  ],
+  "color": [
+    "#ff6666",
+    "#ffd966",
+    "#b3ff66",
+    "#66ff8c",
+    "#66ffff",
+    "#668cff",
+    "#b266ff",
+    "#ff66d9",
+    "#ff6666"
+  ]
+}

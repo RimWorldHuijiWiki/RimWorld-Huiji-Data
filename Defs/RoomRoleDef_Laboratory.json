@@ -1,0 +1,11 @@
+{
+  "defType": "RoomRoleDef",
+  "defName": "Laboratory",
+  "label": "研究室",
+  "relatedStats": [
+    {
+      "defName": "Cleanliness",
+      "name": "清洁"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "Wealth",
+  "label": "财富",
+  "isHidden": false,
+  "defaultScore": 0.0,
+  "scoreStages": [
+    {
+      "name": "极穷",
+      "minScore": -3.40282347E+38
+    },
+    {
+      "name": "较穷",
+      "minScore": 500.0
+    },
+    {
+      "name": "普通",
+      "minScore": 700.0
+    },
+    {
+      "name": "小富",
+      "minScore": 2000.0
+    },
+    {
+      "name": "富有",
+      "minScore": 4000.0
+    },
+    {
+      "name": "豪华",
+      "minScore": 10000.0
+    },
+    {
+      "name": "非常豪华",
+      "minScore": 40000.0
+    },
+    {
+      "name": "极度豪华",
+      "minScore": 100000.0
+    },
+    {
+      "name": "难以置信",
+      "minScore": 1000000.0
+    }
+  ],
+  "color": [
+    "#ff6666",
+    "#ffcc66",
+    "#ccff66",
+    "#66ff66",
+    "#66ffcc",
+    "#66ccff",
+    "#6666ff",
+    "#cc66ff",
+    "#ff66cc",
+    "#ff6666"
+  ]
+}

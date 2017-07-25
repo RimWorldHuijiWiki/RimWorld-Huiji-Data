@@ -1,0 +1,27 @@
+{
+  "defType": "RoomRoleDef",
+  "defName": "RecRoom",
+  "label": "娱乐室",
+  "relatedStats": [
+    {
+      "defName": "Impressiveness",
+      "name": "观感"
+    },
+    {
+      "defName": "Wealth",
+      "name": "财富"
+    },
+    {
+      "defName": "Space",
+      "name": "空间"
+    },
+    {
+      "defName": "Beauty",
+      "name": "美观"
+    },
+    {
+      "defName": "Cleanliness",
+      "name": "清洁"
+    }
+  ]
+}

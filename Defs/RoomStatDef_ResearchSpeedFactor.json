@@ -1,0 +1,9 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "ResearchSpeedFactor",
+  "label": "研究速度系数",
+  "isHidden": true,
+  "defaultScore": 1.0,
+  "scoreStages": null,
+  "color": null
+}

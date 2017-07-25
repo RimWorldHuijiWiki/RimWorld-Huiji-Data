@@ -1,0 +1,9 @@
+{
+  "defType": "RoomStatDef",
+  "defName": "GraveVisitingJoyGainFactor",
+  "label": "扫墓娱乐获得系数",
+  "isHidden": true,
+  "defaultScore": 1.0,
+  "scoreStages": null,
+  "color": null
+}

@@ -1,0 +1,26 @@
+{
+  "collection": "RoomStatDef",
+  "allDefs": [
+    "RoomStatDef_Impressiveness.json",
+    "RoomStatDef_Wealth.json",
+    "RoomStatDef_Space.json",
+    "RoomStatDef_Beauty.json",
+    "RoomStatDef_Cleanliness.json",
+    "RoomStatDef_InfectionChanceFactor.json",
+    "RoomStatDef_SurgerySuccessChanceFactor.json",
+    "RoomStatDef_ResearchSpeedFactor.json",
+    "RoomStatDef_GraveVisitingJoyGainFactor.json",
+    "RoomStatDef_FoodPoisonChanceFactor.json"
+  ],
+  "charts": {
+    "compare": {
+      "color": [
+        "#ff6666",
+        "#b3ff66",
+        "#66ffff",
+        "#b266ff",
+        "#ff6666"
+      ]
+    }
+  }
+}
