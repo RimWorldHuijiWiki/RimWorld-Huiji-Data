@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "VitalsMonitor",
+  "label": "生命体征监测仪",
+  "description": "解锁建造「生命体征监测仪」，将其放在医疗床旁，提高病人的治疗质量。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1600.0,
+  "tags": null,
+  "researchViewX": 9.0,
+  "researchViewY": 0.0
+}

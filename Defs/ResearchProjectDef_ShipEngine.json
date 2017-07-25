@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ShipEngine",
+  "label": "反物质飞船推进器",
+  "description": "解锁建造「飞船推进器」。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 4000.0,
+  "tags": null,
+  "researchViewX": 12.0,
+  "researchViewY": 2.0
+}

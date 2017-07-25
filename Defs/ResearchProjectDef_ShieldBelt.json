@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ShieldBelt",
+  "label": "护盾腰带",
+  "description": "动能排斥立场技术让你能够制作「护盾腰带」，可阻挡远程攻击，包括从外向内和从内向外的。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 1500.0,
+  "tags": null,
+  "researchViewX": 10.0,
+  "researchViewY": 5.0
+}

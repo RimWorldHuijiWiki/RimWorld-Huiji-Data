@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Electricity",
+  "label": "电力",
+  "description": "研究如何发电，并将电力用于烹饪和其他简单的作业。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1200.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 3.0,
+  "researchViewY": 2.5
+}

@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "MedicineProduction",
+  "label": "医药生产",
+  "description": "将草药、中性胺和布制成「医药」。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1500.0,
+  "tags": null,
+  "researchViewX": 7.0,
+  "researchViewY": 0.0
+}

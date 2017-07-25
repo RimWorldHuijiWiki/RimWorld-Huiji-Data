@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "TubeTelevision",
+  "label": "显像管电视",
+  "description": "解锁建造「显像管电视」。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 800.0,
+  "tags": null,
+  "researchViewX": 7.0,
+  "researchViewY": 5.0
+}

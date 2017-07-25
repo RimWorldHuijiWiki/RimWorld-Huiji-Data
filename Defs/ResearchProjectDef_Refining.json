@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Refining",
+  "label": "精炼",
+  "description": "建造精炼设备用于从木材提炼「化合燃料」。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1200.0,
+  "tags": null,
+  "researchViewX": 4.0,
+  "researchViewY": 4.0
+}

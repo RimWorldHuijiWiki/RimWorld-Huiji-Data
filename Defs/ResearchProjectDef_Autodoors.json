@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Autodoors",
+  "label": "自动门",
+  "description": "解锁建造「自动门」，人通过时不会被减速。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 400.0,
+  "tags": null,
+  "researchViewX": 5.0,
+  "researchViewY": 3.0
+}

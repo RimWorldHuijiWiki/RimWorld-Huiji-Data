@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Stonecutting",
+  "label": "岩石切割",
+  "description": "解锁建造「切石桌」，将岩石堆切成可用的石块。",
+  "techLevel": 3,
+  "techLevelLabel": "中世纪",
+  "baseCost": 300.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 0.0,
+  "researchViewY": 5.0
+}

@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ComplexClothing",
+  "label": "复杂衣物",
+  "description": "缝制复杂的服饰，比如裤子、防尘大衣、牛仔帽等。",
+  "techLevel": 3,
+  "techLevelLabel": "中世纪",
+  "baseCost": 500.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 0.0,
+  "researchViewY": 4.0
+}

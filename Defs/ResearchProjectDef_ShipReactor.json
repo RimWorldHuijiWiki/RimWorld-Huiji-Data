@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ShipReactor",
+  "label": "反物质飞船反应炉",
+  "description": "解锁使用反物质约束核心建造用于给飞船提供动力的反应炉。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 4000.0,
+  "tags": null,
+  "researchViewX": 12.0,
+  "researchViewY": 1.0
+}

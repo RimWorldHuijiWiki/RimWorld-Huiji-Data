@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "GunTurrets",
+  "label": "自动机枪塔",
+  "description": "解锁建造「自动机枪塔」。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 800.0,
+  "tags": null,
+  "researchViewX": 8.0,
+  "researchViewY": 5.0
+}

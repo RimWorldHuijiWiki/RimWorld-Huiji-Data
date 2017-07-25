@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "IEDBomb",
+  "label": "爆炸陷阱",
+  "description": "解锁建造「爆炸陷阱」，以迫击炮炮弹为材料制作的简易爆炸装置。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1600.0,
+  "tags": null,
+  "researchViewX": 6.0,
+  "researchViewY": 4.0
+}

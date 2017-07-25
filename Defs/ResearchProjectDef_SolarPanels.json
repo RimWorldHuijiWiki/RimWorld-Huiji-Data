@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "SolarPanels",
+  "label": "太阳能板",
+  "description": "解锁建造「太阳能板」，用于发电。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 600.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 4.0,
+  "researchViewY": 2.0
+}

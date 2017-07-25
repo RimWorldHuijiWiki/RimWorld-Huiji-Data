@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Mortars",
+  "label": "迫击炮",
+  "description": "解锁建造「迫击炮」，可越过墙抛射炮弹，射程非常远。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 2000.0,
+  "tags": null,
+  "researchViewX": 5.0,
+  "researchViewY": 5.0
+}

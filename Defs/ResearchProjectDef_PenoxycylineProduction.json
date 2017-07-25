@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "PenoxycylineProduction",
+  "label": "佩诺西林制作",
+  "description": "学会制作「佩诺西林」，一种疾病防治药物。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 500.0,
+  "tags": null,
+  "researchViewX": 2.0,
+  "researchViewY": 2.75
+}

@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ComponentAssembly",
+  "label": "零部件装配",
+  "description": "解锁建造「零部件装配台」，用于将简单的材料加工成零部件。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 3000.0,
+  "tags": null,
+  "researchViewX": 10.0,
+  "researchViewY": 3.0
+}

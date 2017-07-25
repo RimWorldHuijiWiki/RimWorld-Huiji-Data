@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "GroundPenetratingScanner",
+  "label": "地质扫描仪",
+  "description": "允许你建造「地质扫描仪」，来勘探可用深钻井开采的地底资源。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 7000.0,
+  "tags": null,
+  "researchViewX": 10.0,
+  "researchViewY": 1.0
+}

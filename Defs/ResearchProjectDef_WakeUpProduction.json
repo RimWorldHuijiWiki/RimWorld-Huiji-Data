@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "WakeUpProduction",
+  "label": "清醒丸制作",
+  "description": "学会制作「清醒丸」，清醒丸可以延长殖民者的工作时间，使其忘却疲劳，但是带有一些副作用。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 600.0,
+  "tags": null,
+  "researchViewX": 2.0,
+  "researchViewY": 1.25
+}

@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "NutrientPaste",
+  "label": "营养膏合成机",
+  "description": "解锁建造「营养膏合成机」，能自动将生食高效地合成为营养膏。用于应对食物短缺。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 600.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 5.0,
+  "researchViewY": 0.5
+}

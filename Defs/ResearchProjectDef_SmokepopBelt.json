@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "SmokepopBelt",
+  "label": "烟罐腰带",
+  "description": "解锁制作「烟罐腰带」，可提供自动防御烟幕。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1000.0,
+  "tags": null,
+  "researchViewX": 5.0,
+  "researchViewY": 4.0
+}

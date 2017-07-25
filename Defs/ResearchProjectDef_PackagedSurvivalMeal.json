@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "PackagedSurvivalMeal",
+  "label": "包装生存食品",
+  "description": "解锁生产「包装生存食品」，密封储存且不会变质的食品。非常适合用于旅行中。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 2000.0,
+  "tags": null,
+  "researchViewX": 6.0,
+  "researchViewY": 0.5
+}

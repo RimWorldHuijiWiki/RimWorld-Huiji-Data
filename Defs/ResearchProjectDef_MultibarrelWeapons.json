@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "MultibarrelWeapons",
+  "label": "多管武器",
+  "description": "解锁制作「速射机枪」。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 3000.0,
+  "tags": null,
+  "researchViewX": 9.0,
+  "researchViewY": 3.0
+}

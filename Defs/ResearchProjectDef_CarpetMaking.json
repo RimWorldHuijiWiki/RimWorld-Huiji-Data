@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "CarpetMaking",
+  "label": "地毯铺设",
+  "description": "解锁建造「地毯」，用来提升居住环境的品质。",
+  "techLevel": 3,
+  "techLevelLabel": "中世纪",
+  "baseCost": 1200.0,
+  "tags": null,
+  "researchViewX": 1.0,
+  "researchViewY": 4.0
+}

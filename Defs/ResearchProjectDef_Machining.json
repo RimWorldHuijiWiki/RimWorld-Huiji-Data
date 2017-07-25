@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Machining",
+  "label": "机械加工",
+  "description": "解锁建造「机械加工台」，用于制作枪支和机械，或者拆解死亡的机械体获得高级的材料。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1500.0,
+  "tags": null,
+  "researchViewX": 4.0,
+  "researchViewY": 5.0
+}

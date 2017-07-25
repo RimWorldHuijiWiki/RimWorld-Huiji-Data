@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ShipComputerCore",
+  "label": "飞船电脑核心",
+  "description": "解锁强制将现有的AI伪人格核心装入用于飞船导航的人工智能电脑核心中。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 2500.0,
+  "tags": null,
+  "researchViewX": 12.0,
+  "researchViewY": 3.0
+}

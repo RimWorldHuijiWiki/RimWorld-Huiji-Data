@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Brewing",
+  "label": "酿酒",
+  "description": "解锁建造「酿造台」。将啤酒花酿成美味的啤酒。",
+  "techLevel": 2,
+  "techLevelLabel": "石器时代",
+  "baseCost": 700.0,
+  "tags": null,
+  "researchViewX": 0.0,
+  "researchViewY": 3.0
+}

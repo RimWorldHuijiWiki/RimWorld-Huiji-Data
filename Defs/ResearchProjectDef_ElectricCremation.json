@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ElectricCremation",
+  "label": "电力火化炉",
+  "description": "解锁建造「电力火化炉」，可焚烧尸体和无用的衣物。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 500.0,
+  "tags": null,
+  "researchViewX": 6.0,
+  "researchViewY": 1.25
+}

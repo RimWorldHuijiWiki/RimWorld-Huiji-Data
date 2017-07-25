@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "GeothermalPower",
+  "label": "地热能",
+  "description": "解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1800.0,
+  "tags": null,
+  "researchViewX": 8.0,
+  "researchViewY": 4.0
+}

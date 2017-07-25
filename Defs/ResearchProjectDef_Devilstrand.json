@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Devilstrand",
+  "label": "恶魔菇",
+  "description": "解锁种植「恶魔菇」，一种生长非常缓慢的蘑菇，可提取得到贵重的织物：魔菇布。",
+  "techLevel": 2,
+  "techLevelLabel": "石器时代",
+  "baseCost": 500.0,
+  "tags": null,
+  "researchViewX": 0.0,
+  "researchViewY": 2.0
+}

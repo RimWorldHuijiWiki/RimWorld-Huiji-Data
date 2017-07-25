@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "MoisturePump",
+  "label": "排水泵",
+  "description": "解锁建造「排水泵」，一种能将潮湿土地变干的装置。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1200.0,
+  "tags": null,
+  "researchViewX": 8.0,
+  "researchViewY": 3.0
+}

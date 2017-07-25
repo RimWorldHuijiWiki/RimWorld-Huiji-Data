@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ElectricSmelting",
+  "label": "电力熔炼",
+  "description": "解锁建造「电力锻造台」和「电熔炼器」。\n\n电力锻造台不需要燃料。电熔炼器用高温和强磁从钢块渣和其他物品中提炼有用的金属。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 1700.0,
+  "tags": null,
+  "researchViewX": 5.0,
+  "researchViewY": 1.25
+}

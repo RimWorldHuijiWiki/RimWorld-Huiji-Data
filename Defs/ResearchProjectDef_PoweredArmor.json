@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "PoweredArmor",
+  "label": "动力装甲",
+  "description": "神经元机械和先进的玻璃钢加工技术，解锁制作「动力装甲」和「动力头盔」。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 1600.0,
+  "tags": null,
+  "researchViewX": 9.0,
+  "researchViewY": 5.0
+}

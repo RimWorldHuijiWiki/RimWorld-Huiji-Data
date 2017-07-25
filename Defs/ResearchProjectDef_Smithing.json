@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Smithing",
+  "label": "锻造",
+  "description": "解锁建造「锻造台」，将金属打造成武器和工具。",
+  "techLevel": 3,
+  "techLevelLabel": "中世纪",
+  "baseCost": 700.0,
+  "tags": null,
+  "researchViewX": 1.0,
+  "researchViewY": 5.0
+}

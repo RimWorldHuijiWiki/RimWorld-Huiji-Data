@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Cryptosleep",
+  "label": "低温休眠舱",
+  "description": "解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。",
+  "techLevel": 5,
+  "techLevelLabel": "太空时代",
+  "baseCost": 1100.0,
+  "tags": null,
+  "researchViewX": 10.0,
+  "researchViewY": 4.0
+}

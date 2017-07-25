@@ -1,0 +1,14 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "Batteries",
+  "label": "蓄电池",
+  "description": "解锁建造「蓄电池」以储存电力。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 400.0,
+  "tags": [
+    "ClassicStart"
+  ],
+  "researchViewX": 4.0,
+  "researchViewY": 1.25
+}

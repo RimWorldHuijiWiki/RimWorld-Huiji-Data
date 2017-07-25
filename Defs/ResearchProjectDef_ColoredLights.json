@@ -1,0 +1,12 @@
+{
+  "defType": "ResearchProjectDef",
+  "defName": "ColoredLights",
+  "label": "彩色灯",
+  "description": "解锁建造装饰性的彩色落地灯。",
+  "techLevel": 4,
+  "techLevelLabel": "工业时代",
+  "baseCost": 500.0,
+  "tags": null,
+  "researchViewX": 5.0,
+  "researchViewY": 2.0
+}
