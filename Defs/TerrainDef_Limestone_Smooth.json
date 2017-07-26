@@ -36,7 +36,7 @@
   "costList": null,
   "researchPrerequisites": null,
   "resourcesFractionWhenDeconstructed": 0.75,
-  "texture": "Texture_terrain_surfaces_smoothstone.png",
+  "texture": "Textures_terrain_surfaces_smoothstone.png",
   "layerable": false,
   "color": "#9e9987",
   "driesTo": null

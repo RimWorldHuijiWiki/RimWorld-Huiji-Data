@@ -35,14 +35,14 @@
           "Descriptor": "好奇（学习速度100%）",
           "LearningFactor": 1.0,
           "GainJoyAmount": 2E-05,
-          "Icon": "Texture_ui_icons_passionminor.png"
+          "Icon": "Textures_ui_icons_passionminor.png"
         },
         {
           "Passion": 2,
           "Descriptor": "狂热（学习速度150%）",
           "LearningFactor": 1.5,
           "GainJoyAmount": 4E-05,
-          "Icon": "Texture_ui_icons_passionmajor.png"
+          "Icon": "Textures_ui_icons_passionmajor.png"
         }
       ],
       "LevelsData": [
