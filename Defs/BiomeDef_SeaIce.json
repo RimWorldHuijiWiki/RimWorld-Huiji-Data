@@ -8,70 +8,78 @@
   "diseaseMtbDays": 80.0,
   "hasVirtualPlants": false,
   "animalWeights": {
-    "s1_data": [
-      {
-        "defName": "Muffalo",
-        "name": "野牦牛",
-        "value": 0.0133333327
-      },
-      {
-        "defName": "PolarBear",
-        "name": "北极熊",
-        "value": 0.08
-      },
-      {
-        "defName": "Snowhare",
-        "name": "雪兔",
-        "value": 1.0
-      },
-      {
-        "defName": "WolfArctic",
-        "name": "北极狼",
-        "value": 0.02
-      },
-      {
-        "defName": "FoxArctic",
-        "name": "北极狐",
-        "value": 0.02
-      }
-    ],
     "color": [
       "#ff6666",
       "#e0ff66",
       "#66ffa3",
       "#66a3ff",
       "#e066ff"
+    ],
+    "series": [
+      {
+        "data": [
+          {
+            "defName": "Muffalo",
+            "name": "野牦牛",
+            "value": 0.0133333327
+          },
+          {
+            "defName": "PolarBear",
+            "name": "北极熊",
+            "value": 0.08
+          },
+          {
+            "defName": "Snowhare",
+            "name": "雪兔",
+            "value": 1.0
+          },
+          {
+            "defName": "WolfArctic",
+            "name": "北极狼",
+            "value": 0.02
+          },
+          {
+            "defName": "FoxArctic",
+            "name": "北极狐",
+            "value": 0.02
+          }
+        ]
+      }
     ]
   },
   "plantWeights": null,
   "diseaseWeights": {
-    "s1_data": [
-      {
-        "defName": "Flu",
-        "name": "流感",
-        "value": 100.0
-      },
-      {
-        "defName": "Plague",
-        "name": "瘟疫",
-        "value": 80.0
-      },
-      {
-        "defName": "FibrousMechanites",
-        "name": "纤维纳米机械感染",
-        "value": 30.0
-      },
-      {
-        "defName": "SensoryMechanites",
-        "name": "感官纳米机械感染",
-        "value": 30.0
-      }
-    ],
     "color": [
       "#ff6666",
       "#b3ff66",
       "#66ffff",
       "#b266ff"
+    ],
+    "series": [
+      {
+        "data": [
+          {
+            "defName": "Flu",
+            "name": "流感",
+            "value": 100.0
+          },
+          {
+            "defName": "Plague",
+            "name": "瘟疫",
+            "value": 80.0
+          },
+          {
+            "defName": "FibrousMechanites",
+            "name": "纤维纳米机械感染",
+            "value": 30.0
+          },
+          {
+            "defName": "SensoryMechanites",
+            "name": "感官纳米机械感染",
+            "value": 30.0
+          }
+        ]
+      }
     ]
   },
   "texture": "Textures_world_biomes_icesheetocean.png"

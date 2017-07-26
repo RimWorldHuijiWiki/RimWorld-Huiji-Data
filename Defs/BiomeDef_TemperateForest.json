@@ -8,123 +8,6 @@
   "diseaseMtbDays": 45.0,
   "hasVirtualPlants": true,
   "animalWeights": {
-    "s1_data": [
-      {
-        "defName": "Muffalo",
-        "name": "野牦牛",
-        "value": 0.0333333351
-      },
-      {
-        "defName": "Gazelle",
-        "name": "瞪羚",
-        "value": 0.005882353
-      },
-      {
-        "defName": "GrizzlyBear",
-        "name": "灰熊",
-        "value": 0.022
-      },
-      {
-        "defName": "Cougar",
-        "name": "美洲狮",
-        "value": 0.012
-      },
-      {
-        "defName": "Lynx",
-        "name": "猞猁",
-        "value": 0.008
-      },
-      {
-        "defName": "Emu",
-        "name": "鸸鹋",
-        "value": 0.1
-      },
-      {
-        "defName": "Ostrich",
-        "name": "鸵鸟",
-        "value": 0.1
-      },
-      {
-        "defName": "Turkey",
-        "name": "火鸡",
-        "value": 0.5
-      },
-      {
-        "defName": "Alpaca",
-        "name": "羊驼",
-        "value": 0.1
-      },
-      {
-        "defName": "Megasloth",
-        "name": "巨懒",
-        "value": 0.04
-      },
-      {
-        "defName": "Hare",
-        "name": "野兔",
-        "value": 1.0
-      },
-      {
-        "defName": "Squirrel",
-        "name": "松鼠",
-        "value": 1.0
-      },
-      {
-        "defName": "Boomrat",
-        "name": "爆炸鼠",
-        "value": 0.25
-      },
-      {
-        "defName": "Raccoon",
-        "name": "浣熊",
-        "value": 0.4
-      },
-      {
-        "defName": "Rat",
-        "name": "老鼠",
-        "value": 0.8
-      },
-      {
-        "defName": "Deer",
-        "name": "鹿",
-        "value": 0.0833333358
-      },
-      {
-        "defName": "Ibex",
-        "name": "野山羊",
-        "value": 0.15
-      },
-      {
-        "defName": "WildBoar",
-        "name": "野猪",
-        "value": 0.06666667
-      },
-      {
-        "defName": "Tortoise",
-        "name": "乌龟",
-        "value": 0.4
-      },
-      {
-        "defName": "Boomalope",
-        "name": "爆炸羊",
-        "value": 0.0444444455
-      },
-      {
-        "defName": "Warg",
-        "name": "座狼",
-        "value": 0.00342857139
-      },
-      {
-        "defName": "WolfTimber",
-        "name": "森林狼",
-        "value": 0.04
-      },
-      {
-        "defName": "FoxRed",
-        "name": "赤狐",
-        "value": 0.04
-      }
-    ],
     "color": [
       "#ff6666",
       "#ff8e66",
@@ -149,46 +32,130 @@
       "#ff66de",
       "#ff66b6",
       "#ff668e"
+    ],
+    "series": [
+      {
+        "data": [
+          {
+            "defName": "Muffalo",
+            "name": "野牦牛",
+            "value": 0.0333333351
+          },
+          {
+            "defName": "Gazelle",
+            "name": "瞪羚",
+            "value": 0.005882353
+          },
+          {
+            "defName": "GrizzlyBear",
+            "name": "灰熊",
+            "value": 0.022
+          },
+          {
+            "defName": "Cougar",
+            "name": "美洲狮",
+            "value": 0.012
+          },
+          {
+            "defName": "Lynx",
+            "name": "猞猁",
+            "value": 0.008
+          },
+          {
+            "defName": "Emu",
+            "name": "鸸鹋",
+            "value": 0.1
+          },
+          {
+            "defName": "Ostrich",
+            "name": "鸵鸟",
+            "value": 0.1
+          },
+          {
+            "defName": "Turkey",
+            "name": "火鸡",
+            "value": 0.5
+          },
+          {
+            "defName": "Alpaca",
+            "name": "羊驼",
+            "value": 0.1
+          },
+          {
+            "defName": "Megasloth",
+            "name": "巨懒",
+            "value": 0.04
+          },
+          {
+            "defName": "Hare",
+            "name": "野兔",
+            "value": 1.0
+          },
+          {
+            "defName": "Squirrel",
+            "name": "松鼠",
+            "value": 1.0
+          },
+          {
+            "defName": "Boomrat",
+            "name": "爆炸鼠",
+            "value": 0.25
+          },
+          {
+            "defName": "Raccoon",
+            "name": "浣熊",
+            "value": 0.4
+          },
+          {
+            "defName": "Rat",
+            "name": "老鼠",
+            "value": 0.8
+          },
+          {
+            "defName": "Deer",
+            "name": "鹿",
+            "value": 0.0833333358
+          },
+          {
+            "defName": "Ibex",
+            "name": "野山羊",
+            "value": 0.15
+          },
+          {
+            "defName": "WildBoar",
+            "name": "野猪",
+            "value": 0.06666667
+          },
+          {
+            "defName": "Tortoise",
+            "name": "乌龟",
+            "value": 0.4
+          },
+          {
+            "defName": "Boomalope",
+            "name": "爆炸羊",
+            "value": 0.0444444455
+          },
+          {
+            "defName": "Warg",
+            "name": "座狼",
+            "value": 0.00342857139
+          },
+          {
+            "defName": "WolfTimber",
+            "name": "森林狼",
+            "value": 0.04
+          },
+          {
+            "defName": "FoxRed",
+            "name": "赤狐",
+            "value": 0.04
+          }
+        ]
+      }
     ]
   },
   "plantWeights": {
-    "s1_data": [
-      {
-        "defName": "PlantRaspberry",
-        "name": "野山莓",
-        "value": 0.1
-      },
-      {
-        "defName": "PlantBush",
-        "name": "灌木",
-        "value": 0.7
-      },
-      {
-        "defName": "PlantWildHealroot",
-        "name": "野生药草",
-        "value": 0.05
-      },
-      {
-        "defName": "PlantGrass",
-        "name": "草",
-        "value": 8.0
-      },
-      {
-        "defName": "PlantDandelion",
-        "name": "蒲公英",
-        "value": 0.8
-      },
-      {
-        "defName": "PlantTreeOak",
-        "name": "橡树",
-        "value": 0.5
-      },
-      {
-        "defName": "PlantTreePoplar",
-        "name": "杨树",
-        "value": 0.5
-      }
-    ],
     "color": [
       "#ff6666",
       "#ffe966",
@@ -197,46 +164,50 @@
       "#66bdff",
       "#9266ff",
       "#ff66e9"
+    ],
+    "series": [
+      {
+        "data": [
+          {
+            "defName": "PlantRaspberry",
+            "name": "野山莓",
+            "value": 0.1
+          },
+          {
+            "defName": "PlantBush",
+            "name": "灌木",
+            "value": 0.7
+          },
+          {
+            "defName": "PlantWildHealroot",
+            "name": "野生药草",
+            "value": 0.05
+          },
+          {
+            "defName": "PlantGrass",
+            "name": "草",
+            "value": 8.0
+          },
+          {
+            "defName": "PlantDandelion",
+            "name": "蒲公英",
+            "value": 0.8
+          },
+          {
+            "defName": "PlantTreeOak",
+            "name": "橡树",
+            "value": 0.5
+          },
+          {
+            "defName": "PlantTreePoplar",
+            "name": "杨树",
+            "value": 0.5
+          }
+        ]
+      }
     ]
   },
   "diseaseWeights": {
-    "s1_data": [
-      {
-        "defName": "Flu",
-        "name": "流感",
-        "value": 100.0
-      },
-      {
-        "defName": "Plague",
-        "name": "瘟疫",
-        "value": 100.0
-      },
-      {
-        "defName": "Malaria",
-        "name": "疟疾",
-        "value": 100.0
-      },
-      {
-        "defName": "FibrousMechanites",
-        "name": "纤维纳米机械感染",
-        "value": 30.0
-      },
-      {
-        "defName": "SensoryMechanites",
-        "name": "感官纳米机械感染",
-        "value": 30.0
-      },
-      {
-        "defName": "GutWorms",
-        "name": "肠道蠕虫",
-        "value": 50.0
-      },
-      {
-        "defName": "MuscleParasites",
-        "name": "肌肉寄生虫",
-        "value": 50.0
-      }
-    ],
     "color": [
       "#ff6666",
       "#ffe966",
@@ -245,6 +216,47 @@
       "#66bdff",
       "#9266ff",
       "#ff66e9"
+    ],
+    "series": [
+      {
+        "data": [
+          {
+            "defName": "Flu",
+            "name": "流感",
+            "value": 100.0
+          },
+          {
+            "defName": "Plague",
+            "name": "瘟疫",
+            "value": 100.0
+          },
+          {
+            "defName": "Malaria",
+            "name": "疟疾",
+            "value": 100.0
+          },
+          {
+            "defName": "FibrousMechanites",
+            "name": "纤维纳米机械感染",
+            "value": 30.0
+          },
+          {
+            "defName": "SensoryMechanites",
+            "name": "感官纳米机械感染",
+            "value": 30.0
+          },
+          {
+            "defName": "GutWorms",
+            "name": "肠道蠕虫",
+            "value": 50.0
+          },
+          {
+            "defName": "MuscleParasites",
+            "name": "肌肉寄生虫",
+            "value": 50.0
+          }
+        ]
+      }
     ]
   },
   "texture": "Textures_world_biomes_temperateforest.png"
