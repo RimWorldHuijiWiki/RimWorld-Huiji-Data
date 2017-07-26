@@ -7,186 +7,233 @@
   "plantDensity": 0.3,
   "diseaseMtbDays": 50.0,
   "hasVirtualPlants": true,
-  "animalWeights": [
-    {
-      "defName": "Muffalo",
-      "name": "野牦牛",
-      "value": 0.0833333358
-    },
-    {
-      "defName": "GrizzlyBear",
-      "name": "灰熊",
-      "value": 0.01
-    },
-    {
-      "defName": "Cougar",
-      "name": "美洲狮",
-      "value": 0.007
-    },
-    {
-      "defName": "Lynx",
-      "name": "猞猁",
-      "value": 0.007
-    },
-    {
-      "defName": "Turkey",
-      "name": "火鸡",
-      "value": 0.2
-    },
-    {
-      "defName": "Megasloth",
-      "name": "巨懒",
-      "value": 0.03
-    },
-    {
-      "defName": "Hare",
-      "name": "野兔",
-      "value": 1.0
-    },
-    {
-      "defName": "Husky",
-      "name": "哈士奇犬",
-      "value": 0.01
-    },
-    {
-      "defName": "Squirrel",
-      "name": "松鼠",
-      "value": 1.0
-    },
-    {
-      "defName": "Raccoon",
-      "name": "浣熊",
-      "value": 0.4
-    },
-    {
-      "defName": "Rat",
-      "name": "老鼠",
-      "value": 0.8
-    },
-    {
-      "defName": "Deer",
-      "name": "鹿",
-      "value": 0.005
-    },
-    {
-      "defName": "Ibex",
-      "name": "野山羊",
-      "value": 0.2
-    },
-    {
-      "defName": "Elk",
-      "name": "驼鹿",
-      "value": 0.0833333358
-    },
-    {
-      "defName": "Caribou",
-      "name": "驯鹿",
-      "value": 0.0833333358
-    },
-    {
-      "defName": "WildBoar",
-      "name": "野猪",
-      "value": 0.06666667
-    },
-    {
-      "defName": "Warg",
-      "name": "座狼",
-      "value": 0.002
-    },
-    {
-      "defName": "WolfTimber",
-      "name": "森林狼",
-      "value": 0.07
-    },
-    {
-      "defName": "WolfArctic",
-      "name": "北极狼",
-      "value": 0.03
-    },
-    {
-      "defName": "FoxRed",
-      "name": "赤狐",
-      "value": 0.07
-    },
-    {
-      "defName": "FoxArctic",
-      "name": "北极狐",
-      "value": 0.03
-    }
-  ],
-  "plantWeights": [
-    {
-      "defName": "PlantRaspberry",
-      "name": "野山莓",
-      "value": 1.8
-    },
-    {
-      "defName": "PlantBush",
-      "name": "灌木",
-      "value": 3.0
-    },
-    {
-      "defName": "PlantWildHealroot",
-      "name": "野生药草",
-      "value": 0.3
-    },
-    {
-      "defName": "PlantGrass",
-      "name": "草",
-      "value": 10.0
-    },
-    {
-      "defName": "PlantMoss",
-      "name": "苔藓",
-      "value": 4.0
-    },
-    {
-      "defName": "PlantTreePoplar",
-      "name": "杨树",
-      "value": 1.2
-    },
-    {
-      "defName": "PlantTreePine",
-      "name": "松树",
-      "value": 5.0
-    },
-    {
-      "defName": "PlantTreeBirch",
-      "name": "桦树",
-      "value": 1.5
-    }
-  ],
-  "diseaseWeights": [
-    {
-      "defName": "Flu",
-      "name": "流感",
-      "value": 100.0
-    },
-    {
-      "defName": "Plague",
-      "name": "瘟疫",
-      "value": 100.0
-    },
-    {
-      "defName": "FibrousMechanites",
-      "name": "纤维纳米机械感染",
-      "value": 30.0
-    },
-    {
-      "defName": "SensoryMechanites",
-      "name": "感官纳米机械感染",
-      "value": 30.0
-    },
-    {
-      "defName": "GutWorms",
-      "name": "肠道蠕虫",
-      "value": 50.0
-    },
-    {
-      "defName": "MuscleParasites",
-      "name": "肌肉寄生虫",
-      "value": 50.0
-    }
-  ],
+  "animalWeights": {
+    "s1_data": [
+      {
+        "defName": "Muffalo",
+        "name": "野牦牛",
+        "value": 0.0833333358
+      },
+      {
+        "defName": "GrizzlyBear",
+        "name": "灰熊",
+        "value": 0.01
+      },
+      {
+        "defName": "Cougar",
+        "name": "美洲狮",
+        "value": 0.007
+      },
+      {
+        "defName": "Lynx",
+        "name": "猞猁",
+        "value": 0.007
+      },
+      {
+        "defName": "Turkey",
+        "name": "火鸡",
+        "value": 0.2
+      },
+      {
+        "defName": "Megasloth",
+        "name": "巨懒",
+        "value": 0.03
+      },
+      {
+        "defName": "Hare",
+        "name": "野兔",
+        "value": 1.0
+      },
+      {
+        "defName": "Husky",
+        "name": "哈士奇犬",
+        "value": 0.01
+      },
+      {
+        "defName": "Squirrel",
+        "name": "松鼠",
+        "value": 1.0
+      },
+      {
+        "defName": "Raccoon",
+        "name": "浣熊",
+        "value": 0.4
+      },
+      {
+        "defName": "Rat",
+        "name": "老鼠",
+        "value": 0.8
+      },
+      {
+        "defName": "Deer",
+        "name": "鹿",
+        "value": 0.005
+      },
+      {
+        "defName": "Ibex",
+        "name": "野山羊",
+        "value": 0.2
+      },
+      {
+        "defName": "Elk",
+        "name": "驼鹿",
+        "value": 0.0833333358
+      },
+      {
+        "defName": "Caribou",
+        "name": "驯鹿",
+        "value": 0.0833333358
+      },
+      {
+        "defName": "WildBoar",
+        "name": "野猪",
+        "value": 0.06666667
+      },
+      {
+        "defName": "Warg",
+        "name": "座狼",
+        "value": 0.002
+      },
+      {
+        "defName": "WolfTimber",
+        "name": "森林狼",
+        "value": 0.07
+      },
+      {
+        "defName": "WolfArctic",
+        "name": "北极狼",
+        "value": 0.03
+      },
+      {
+        "defName": "FoxRed",
+        "name": "赤狐",
+        "value": 0.07
+      },
+      {
+        "defName": "FoxArctic",
+        "name": "北极狐",
+        "value": 0.03
+      }
+    ],
+    "color": [
+      "#ff6666",
+      "#ff9266",
+      "#ffbd66",
+      "#ffe966",
+      "#e9ff66",
+      "#bdff66",
+      "#92ff66",
+      "#66ff66",
+      "#66ff92",
+      "#66ffbd",
+      "#66ffe9",
+      "#66e9ff",
+      "#66bdff",
+      "#6692ff",
+      "#6666ff",
+      "#9266ff",
+      "#bd66ff",
+      "#e966ff",
+      "#ff66e9",
+      "#ff66bd",
+      "#ff6692"
+    ]
+  },
+  "plantWeights": {
+    "s1_data": [
+      {
+        "defName": "PlantRaspberry",
+        "name": "野山莓",
+        "value": 1.8
+      },
+      {
+        "defName": "PlantBush",
+        "name": "灌木",
+        "value": 3.0
+      },
+      {
+        "defName": "PlantWildHealroot",
+        "name": "野生药草",
+        "value": 0.3
+      },
+      {
+        "defName": "PlantGrass",
+        "name": "草",
+        "value": 10.0
+      },
+      {
+        "defName": "PlantMoss",
+        "name": "苔藓",
+        "value": 4.0
+      },
+      {
+        "defName": "PlantTreePoplar",
+        "name": "杨树",
+        "value": 1.2
+      },
+      {
+        "defName": "PlantTreePine",
+        "name": "松树",
+        "value": 5.0
+      },
+      {
+        "defName": "PlantTreeBirch",
+        "name": "桦树",
+        "value": 1.5
+      }
+    ],
+    "color": [
+      "#ff6666",
+      "#ffd966",
+      "#b3ff66",
+      "#66ff8c",
+      "#66ffff",
+      "#668cff",
+      "#b266ff",
+      "#ff66d9"
+    ]
+  },
+  "diseaseWeights": {
+    "s1_data": [
+      {
+        "defName": "Flu",
+        "name": "流感",
+        "value": 100.0
+      },
+      {
+        "defName": "Plague",
+        "name": "瘟疫",
+        "value": 100.0
+      },
+      {
+        "defName": "FibrousMechanites",
+        "name": "纤维纳米机械感染",
+        "value": 30.0
+      },
+      {
+        "defName": "SensoryMechanites",
+        "name": "感官纳米机械感染",
+        "value": 30.0
+      },
+      {
+        "defName": "GutWorms",
+        "name": "肠道蠕虫",
+        "value": 50.0
+      },
+      {
+        "defName": "MuscleParasites",
+        "name": "肌肉寄生虫",
+        "value": 50.0
+      }
+    ],
+    "color": [
+      "#ff6666",
+      "#ffff66",
+      "#66ff66",
+      "#66ffff",
+      "#6666ff",
+      "#ff66ff"
+    ]
+  },
   "texture": "Textures_world_biomes_borealforest.png"
 }
